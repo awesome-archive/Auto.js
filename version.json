@@ -1,15 +1,19 @@
-﻿{
-  "versionCode": 163,
-  "versionName": "2.0.16 Beta2",
-  "releaseNotes": "* 优化root录制，录制脚本接近完美，可自行录制游戏脚本\n* 提高部分脚本的运行速度\n* 新增 按键事件、通知事件监听\n*修复 一些问题",
+{
+  "versionCode": 9000,
+  "versionName": "Pro 9.2.13",
+  "releaseNotes": "**重大更新！浏览器访问官网pro.autojs.org即可下载！**\n全新nodejs模式加密，强度更高，目前未被破解\n内置OCR！支持Paddle和MLKitOCR，支持打包\n新增全分辨率找图、特征匹配API\n插件商店上线，且插件支持打包后免安装\nPro 9还支持Node.js引擎、多Tab工作区等几十个新功能，上百个问题修复和优化，等你体验",
   "downloads" : [
 	{
-	  "name": "应用宝",
-	  "url": "http://a.app.qq.com/o/simple.jsp?pkgname=org.autojs.autojs"
+	  "name": "官网下载",
+	  "url": "https://pro.autojs.org/download"
 	},
 	{
-	  "name": "百度手机助手",
-	  "url": "http://shouji.baidu.com/software/22060055.html"
+	  "name": "酷安",
+	  "url": "https://www.coolapk.com/apk/246247"
+	},
+	{
+	  "name": "小米商店",
+	  "url": "https://app.mi.com/details?id=org.autojs.autojspro"
 	}
   ],
   "oldVersions": [
